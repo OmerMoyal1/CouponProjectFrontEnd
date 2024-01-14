@@ -1,0 +1,24 @@
+.AuthManu {
+  right: 5%;
+}
+.AuthManu > * {
+  padding: 20px;
+}
+.authManu a {
+  color: white;
+  text-decoration: none;
+  border-radius: 40px;
+}
+.authManu a:hover {
+  text-decoration: underline;
+}
+.authManu span {
+  color: white;
+}
+.authManu button {
+  color: white;
+  border-color: white;
+}
+.authManu b {
+  color: #ec7272;
+}

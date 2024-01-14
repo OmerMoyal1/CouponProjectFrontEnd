@@ -1,0 +1,23 @@
+.Manu {
+  height: 100%;
+  text-align: center;
+
+  /* background-color: #ff884b; */
+  background-color:  rgba(44, 44, 44, 0.788);
+  font-family: "Major Mono Display", monospace;
+}
+.Manu > * {
+  padding: 20px;
+}
+.Manu a {
+  color: white;
+  text-decoration: none;
+  border-radius: 40px;
+}
+.Manu a:hover {
+  text-decoration: underline;
+}
+.Manu .active {
+  background-color: white;
+  color: #ff884b;
+}

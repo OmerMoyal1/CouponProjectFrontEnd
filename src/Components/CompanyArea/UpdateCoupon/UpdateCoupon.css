@@ -1,0 +1,23 @@
+.UpdateCoupon {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(44, 44, 44, 0.788);
+  text-align: center;
+}
+
+.UpdateCoupon h2 {
+  font-size: 3em;
+  color: #ec7272;
+  font-family: "Galada", cursive;
+}
+
+.UpdateCoupon label {
+  align-self: center;
+  clear: right;
+  width: 250px;
+}
+.UpdateCoupon input {
+  display: inline-block;
+}
+.UpdateCoupon select {
+  display: inline-block;
+}

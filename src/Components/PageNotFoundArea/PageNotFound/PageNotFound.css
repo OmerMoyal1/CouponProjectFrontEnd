@@ -1,0 +1,10 @@
+.PageNotFound {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(44, 44, 44, 0.788);
+  text-align: center;
+}
+.PageNotFound a {
+  text-decoration: none;
+  color: orange;
+  border-color: orange;
+}

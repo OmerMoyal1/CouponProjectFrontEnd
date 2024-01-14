@@ -1,0 +1,16 @@
+.Heading {
+  text-align: center;
+  /* background-color: #ff884b; */
+  background-color:  rgba(44, 44, 44, 0.788);
+  font-family: "Major Mono Display", monospace;
+  display: flex;
+}
+.Heading h1 {
+  width: 50%;
+  color: white;
+  font-family: "Galada", cursive;
+}
+
+.Heading .authManu {
+  width: 25%;
+}

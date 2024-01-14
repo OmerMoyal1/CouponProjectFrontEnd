@@ -1,0 +1,27 @@
+.Layout {
+  height: 100%;
+  display: grid;
+  grid-template-rows: 10% 11% 80.2% 5%;
+}
+.btn {
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #ec7272;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 0px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ec7272;
+  background-image: -webkit-linear-gradient(top, #ec7272, #ff884b);
+  background-image: -moz-linear-gradient(top, #ec7272, #ff884b);
+  background-image: -ms-linear-gradient(top, #ec7272, #ff884b);
+  background-image: -o-linear-gradient(top, #ec7272, #ff884b);
+  background-image: linear-gradient(to bottom, #ec7272, #ff884b);
+  text-decoration: none;
+}

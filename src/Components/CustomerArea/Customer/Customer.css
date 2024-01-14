@@ -1,0 +1,13 @@
+.Customer {
+  width: 100%;
+  text-align: center;
+  grid-template-rows: 15% 85%;
+}
+.Customer h2 {
+  font-size: 3em;
+  color: #ff884b;
+  font-family: "Galada", cursive;
+}
+.Customer input {
+  display: inline;
+}

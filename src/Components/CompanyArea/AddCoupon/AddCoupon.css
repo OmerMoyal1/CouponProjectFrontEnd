@@ -1,0 +1,22 @@
+.AddCoupon {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(44, 44, 44, 0.788);
+  text-align: center;
+}
+.AddCoupon h2 {
+  font-size: 3em;
+  color: #ec7272;
+  font-family: "Galada", cursive;
+}
+
+.AddCoupon label {
+  align-self: center;
+  clear: right;
+  width: 250px;
+}
+.AddCoupon input {
+  display: inline-block;
+}
+.AddCoupon select {
+  display: inline-block;
+}

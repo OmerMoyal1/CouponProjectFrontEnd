@@ -1,0 +1,12 @@
+.CouponBox {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(44, 44, 44, 0.788);
+  margin: 50px;
+  display: inline-flex;
+}
+.CouponBox a {
+  text-decoration: none;
+}
+.CouponBox button {
+  color: #ec7272;
+}
